@@ -1,6 +1,6 @@
 # Guide Heroic Game Launcher
 
-**Heroic Game Launcher** permet de gérer et installer facilement vos jeux, notamment ceux d’Epic, GOG et Amazon. Comme montré dans [cette vidéo de présentation](https://www.youtube.com/watch?v=yVy2jKRI_Ok), vous pouvez également ajouter d’autres launchers tiers.
+**Heroic Game Launcher** permet de gérer et installer facilement vos jeux, notamment ceux d’Epic, GOG et Amazon.
 
    - *Ce guide est basé sur [la documentation officielle](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Linux-Quick-Start-Guide) qui recommande **umu** et **proton-ge-latest**.*
 
