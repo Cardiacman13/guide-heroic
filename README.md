@@ -76,4 +76,4 @@
 
 Fermez et ouvrez à nouveau Heroic, puis refaites le tutoriel à la lettre.
 
-> *Pour plus d’informations, référez-vous à la [documentation officielle](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Linux-Quick-Start-Guide) ou regardez [mes vidéos](https://youtu.be/52rxe_QmnYU) pour des exemples de configuration et d’installation de divers launchers.*
+> *Pour plus d’informations, référez-vous à la [documentation officielle](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Linux-Quick-Start-Guide)
